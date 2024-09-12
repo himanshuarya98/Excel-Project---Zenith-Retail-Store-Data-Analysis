@@ -26,4 +26,13 @@ Zenith Retail Store wants to create a detailed consumer insights report. The goa
   1. Adults primarily use debit cards.
   2. Young professionals prefer credit cards.
   3. Senior citizens favor PayPal.
-  
+- Olive is identified as the most preferred color among consumers.
+- 43% of customers used a discount code, while 57% did not.
+- Customers with subscriptions gave an average rating of 3.74, compared to 3.76 from customers without subscriptions.
+
+## Final Recommednations ##
+- Improve the shopping experience for senior citizens and develop strategies to attract young professionals and adults.
+- Introduce new promotions for different payment methods to encourage increased purchases.
+- Increase the inventory of **Olive** color products, as it is the most popular among customers, to boost revenue.
+- Since customers prefer shopping in Spring, plan attractive deals for the Summer season to maintain engagement.
+- Ensure a smooth shopping experience in Montana, our top sales location, and conduct regular inspections to better understand customer preferences there.
